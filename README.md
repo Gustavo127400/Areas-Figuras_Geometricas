@@ -1,6 +1,4 @@
 # Área, Perímetro e Volume | PYTHON
-> Objetivo do projeto: <strong>Treinar lógica de programação</strong>
+> Status do Projeto: <strong>Em desenvolvimento</strong>
 <br>
-~~~
-Status do Projeto: Em desenvolvimento
-~~~
+
