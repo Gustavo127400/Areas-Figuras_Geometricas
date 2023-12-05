@@ -1,7 +1,7 @@
 import math 
 print('Seja bem-vindo ao programa do Gustavo!')
 print('Siga-me nas redes sociais: @gustavosouzzaa___')
-print('Figuras: Quadrado, Triângulo, Esfera, Retângulo')
+print('Figuras: Quadrado, Triângulo, Esfera, Retângulo e Losango.')
 print('____________________________________________________________________________')
 figura = input('Qual é a figura geométrica? ')
 
@@ -39,6 +39,9 @@ elif(figura == 'Losango'):
      formula = (dMaior*dMenor)/2
      print('____________________________________________________________________________')
      print('A área do Losango é: ' + str(formula))
+else:
+    print('Figura não encontrada!')
+    print('Fim do programa.')
 
 print('____________________________________________________________________________')
 print('Obrigado por visualizar esse código, gratidão.') 
