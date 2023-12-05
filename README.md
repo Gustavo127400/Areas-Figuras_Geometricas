@@ -1,4 +1,3 @@
-# Área, Perímetro e Volume | PYTHON
-> Status do Projeto: <strong>Em desenvolvimento</strong>
+# Área das Figuras Geométricas | PYTHON
+> Status do Projeto: <strong> Finalizado ✅</strong>
 <br>
-
